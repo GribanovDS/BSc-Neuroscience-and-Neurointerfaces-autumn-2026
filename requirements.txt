@@ -1,0 +1,14 @@
+# Python 3.11 or newer
+
+# Arrays and numerical processing
+numpy==2.4.6
+scipy==1.17.1
+
+# Plots and interactive controls
+matplotlib==3.11.2
+
+# EEG analysis and visualization
+mne==1.13.2
+
+# Bluetooth Low Energy communication with ESP32
+bleak==3.1.0
